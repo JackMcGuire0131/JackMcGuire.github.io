@@ -9,6 +9,6 @@ interactive scroll
 resume button
 new domain
 update projects tab
-update skills tab
+update skills tab(done)
 interactive linkedin button
 
